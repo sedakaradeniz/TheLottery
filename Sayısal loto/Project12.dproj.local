@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.386,C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\Project12.dproj=C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Sayısal loto\Project12.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.902,C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Sayısal loto\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.902,C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Sayısal loto\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.989,=C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.217,=C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
